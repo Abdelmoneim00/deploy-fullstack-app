@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: udagram-api
+    environment: udagram-app
     group_suffix: null
 global:
   application_name: udagram-api
@@ -16,3 +16,5 @@ global:
   repository: null
   sc: null
   workspace_type: Application
+  deploy:
+  artifact: www/Archive.zip
