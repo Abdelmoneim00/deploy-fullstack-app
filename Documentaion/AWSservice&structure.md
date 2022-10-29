@@ -2,7 +2,7 @@
 
   - S3 Bucket :
     1. used to host the front-end of the application
-    > URL of the app : http://udagram-app-deploy.s3.amazonaws.com
+    > URL of the app : http://udagram-app-deploy.s3-website-us-east-1.amazonaws.com 
 
   - ElasticBeanStalk :
     1. for deploying backend api and proccessing data.
